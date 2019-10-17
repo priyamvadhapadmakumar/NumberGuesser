@@ -1,0 +1,6 @@
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\bin\Debug\NumberGuesserGame.exe.config
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\bin\Debug\NumberGuesserGame.exe
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\bin\Debug\NumberGuesserGame.pdb
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\obj\Debug\NumberGuesserGame.csprojAssemblyReference.cache
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\obj\Debug\NumberGuesserGame.exe
+C:\Repo\Pranesh\NumberGuesser\NumberGuesserGame\NumberGuesserGame\obj\Debug\NumberGuesserGame.pdb
